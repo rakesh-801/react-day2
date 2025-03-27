@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "2f67",
+      "name": "Ande Rakesh",
+      "age": 67,
+      "gender": "male",
+      "address": "bellam konda vari palem\nmain road",
+      "pincode": "522426",
+      "password": "1234567890"
+    },
+    {
+      "id": "d14d",
+      "name": "Supraja Joshna",
+      "age": 34,
+      "gender": "female",
+      "address": "DilsukhNagar\nHyderabad",
+      "pincode": "500060",
+      "password": "123456789"
+    },
+    {
+      "id": "37bc",
+      "name": "Ande Mahesh",
+      "age": 12,
+      "gender": "male",
+      "address": "Chalasani nagar",
+      "pincode": "520007",
+      "password": "Ande Mahesh"
+    },
+    {
+      "id": "6ef8",
+      "name": "Ande Rakesh1",
+      "age": 12,
+      "gender": "male",
+      "address": "bellam konda vari palem\nmain road",
+      "pincode": "522426",
+      "password": "1234567890"
+    },
+    {
+      "id": "762c",
+      "name": "Ande Rakesh2",
+      "age": 11,
+      "gender": "male",
+      "address": "bellam konda vari palem\nmain road",
+      "pincode": "522426",
+      "password": "1234567890"
+    },
+    {
+      "id": "3b38",
+      "name": "Ande Rakesh3",
+      "age": 12,
+      "gender": "male",
+      "address": "bellam konda vari palem\nmain road",
+      "pincode": "522426",
+      "password": "1234567890"
+    }
+  ]
+}

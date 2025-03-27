@@ -17,10 +17,10 @@ import {
 } from '@mui/material';
 import { getUsers } from '../services/api';
 
-// Helper function to capitalize first letter
+
 const capitalize = (str) => str.charAt(0).toUpperCase() + str.slice(1);
 
-// Custom header cell component
+
 const HeaderCell = ({ children }) => (
   <TableCell sx={{
     fontWeight: 'bold',
@@ -33,7 +33,7 @@ const HeaderCell = ({ children }) => (
   </TableCell>
 );
 
-// Custom body cell component
+
 const BodyCell = ({ value }) => (
   <TableCell sx={{
     borderBottom: '1px solid',
@@ -87,7 +87,7 @@ export default function DataTableComponent() {
     );
   }
 
-  // Get all unique keys from the first user
+  
   const columns = users[0] ? Object.keys(users[0]) : [];
 
   return (
